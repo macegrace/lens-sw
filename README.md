@@ -16,8 +16,8 @@ DESCRIPTION:
 
 HARDWARE:
     The program was implemented for the following hardware:
-        - IDS UI-3860CP-M-GL R2 Camera
-        - Corning Varioptic USB-M Flexiboard with Max14574 Driver
+        IDS UI-3860CP-M-GL R2 Camera, 
+        Corning Varioptic USB-M Flexiboard with Max14574 Driver
 
 DEPENDENCIES:
     opencv

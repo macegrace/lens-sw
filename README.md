@@ -23,3 +23,14 @@ DEPENDENCIES:
     opencv, 
     uEye - download from https://en.ids-imaging.com/ (registration
     required)
+    
+INSTALLATION:
+    After installing the dependencies, run the following commands 
+    from this directory: mkdir build && cd build 
+                         cmake .. 
+                         make
+                         
+RUN:
+    The program needs to be executed using root privilages:
+        sudo ./AutofocusSweep
+                         

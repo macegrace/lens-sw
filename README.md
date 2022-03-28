@@ -20,6 +20,6 @@ HARDWARE:
         Corning Varioptic USB-M Flexiboard with Max14574 Driver
 
 DEPENDENCIES:
-    opencv
+    opencv, 
     uEye - download from https://en.ids-imaging.com/ (registration
     required)

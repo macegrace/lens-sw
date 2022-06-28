@@ -33,4 +33,4 @@ INSTALLATION:
 RUN:
     The program needs to be executed using root privilages:
         sudo ./AutofocusSweep
-                         
+                     
